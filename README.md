@@ -16,10 +16,12 @@
 
 <br><br>
 
-- 🧑‍🎓: I am an `Advanced Student` at [Facultad de Exactas](https://exa.unicen.edu.ar) at [UNICEN](https://www.unicen.edu.ar).
-  Currently learning `Computer Vision` and `Software Engineering`.
-- 👨‍💻: I love using Software and Software Theory as a solution for every `Problem`.
-- :nerd_face: Always `learning new things`.
+🧑‍🎓 I am an Advanced Student at [Facultad de Exactas](https://exa.unicen.edu.ar) at [UNICEN](https://www.unicen.edu.ar). <br>
+⏳ Currently learning `Computer Vision` and `Software Engineering`.<br>
+👨‍💻 I love using Software and Software Theory as a solution for every `Problem`.<br>
+🤓 Always `learning new things`.<br>
+🧐 Interested in IA, Software Design and Computer Vision <br>
+📫 Contact Me **vpardo@alumnos.exa.unicen.edu.ar** 
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 -->
 
@@ -47,7 +49,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,cpp,java,git,github,py,postgres,linux,vscode,discord&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,cpp,java,git,github,py,postgres,linux,vscode,discord&theme=light&perline=12" />
   </a>
 </p>
 
