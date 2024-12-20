@@ -22,9 +22,22 @@
 - :nerd_face: Always `learning new things`.
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 -->
-<br>
-<br>
-<br>
+
+<br><br><br>
+
+<!-- Analiticas de lenguajes
+<div id="user-GitHub-Analytics">
+     <h2 style="margin: 0; border: none; padding: 0; display: inline-block;align=center ">⚙️ &nbsp;GitHub Analytics</h2>
+</div>
+
+
+<p align="center">
+<a href="https://github.com/ValentinPardo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ValentinPardo&theme=algolia"/>
+</a>
+</p>
+-->
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
