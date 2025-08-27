@@ -17,8 +17,8 @@
 <br><br>
 
 🧑‍🎓 I am an Advanced Student at [Facultad de Exactas](https://exa.unicen.edu.ar) at [UNICEN](https://www.unicen.edu.ar). <br>
-⏳ Currently learning `Computer Vision` and `Software Engineering`.<br>
-👨‍💻 I love using Software and Software Theory as a solution for every `Problem`.<br>
+⏳ Currently learning `Computer Vision` and `Machine Learning`.<br>
+👨‍💻 I love using Tools and Software Theory as a solution for every `Problem`.<br>
 🤓 Always `learning new things`.<br>
 🧐 Interested in IA, Software Design and Computer Vision <br>
 📫 Contact Me **pardo.v.2002@gmail.com** 
