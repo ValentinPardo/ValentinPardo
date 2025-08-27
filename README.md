@@ -7,7 +7,7 @@
 
 <!--Animacion Principal -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%cb4cfb&size=25&center=true&vCenter=true&width=800&height=100&lines=Advanced+Software+Engineer+Student+@ValentinPardo;Investigating+Computer+Vision;Always+learning+new+things;Problem+Solving+Lover<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%cb4cfb&size=25&center=true&vCenter=true&width=800&height=100&lines=Systems +Engineer+@ValentinPardo;Investigating+Computer+Vision;Always+learning+new+things;Problem+Solving+Lover<3"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -21,7 +21,7 @@
 👨‍💻 I love using Software and Software Theory as a solution for every `Problem`.<br>
 🤓 Always `learning new things`.<br>
 🧐 Interested in IA, Software Design and Computer Vision <br>
-📫 Contact Me **vpardo@alumnos.exa.unicen.edu.ar** 
+📫 Contact Me **pardo.v.2002@gmail.com** 
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 -->
 
