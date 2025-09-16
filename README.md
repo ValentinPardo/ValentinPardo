@@ -16,7 +16,7 @@
 
 <br><br>
 
-🧑‍🎓 I am an Advanced Student at [Facultad de Exactas](https://exa.unicen.edu.ar) at [UNICEN](https://www.unicen.edu.ar). <br>
+🧑‍🎓 I am a graduated at [Facultad de Exactas](https://exa.unicen.edu.ar) at [UNICEN](https://www.unicen.edu.ar). <br>
 ⏳ Currently learning `Computer Vision` and `Machine Learning`.<br>
 👨‍💻 I love using Tools and Software Theory as a solution for every `Problem`.<br>
 🤓 Always `learning new things`.<br>
